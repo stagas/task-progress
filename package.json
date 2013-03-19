@@ -1,0 +1,11 @@
+{
+  "name": "task-progress",
+  "version": "0.0.1",
+  "description": "Shows native OS task progress for node apps",
+  "keywords": ["progress","metrics"],
+  "author": "stagas",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": { "test": "node test/test" },
+  "engines": { "node": "*" }
+}
